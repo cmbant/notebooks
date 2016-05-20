@@ -1,6 +1,6 @@
 {
   "name": "Notebooks",
   "tagline": "Example python notebooks",
-  "body": "### CAMB python samples\r\n\r\n[Post-Born lensing](PostBorn.html)\r\n\r\n",
+  "body": "# CAMB python samples\r\n\r\n## [Introductory example](http://camb.readthedocs.io/en/latest/CAMBdemo.html)\r\n\r\n## [Post-Born lensing](PostBorn.html)\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
